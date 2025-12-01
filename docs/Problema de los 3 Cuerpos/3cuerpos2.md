@@ -22,6 +22,7 @@ La novela abarca siglos, desde la Era de la Crisis hasta la Era del Bosque Oscur
 
 ### Los Desvalladores (Wallbreakers) 
 Miembros de la OTT asignados para revelar los planes secretos de los Vallados.
+
 * **Von Neumann:** Desvallador de Tyler *(Parte 2)*.
 * **Mozi:** Desvallador de Rey Díaz *(Parte 2)*.
 * **Aristóteles:** Desvallador de Hines *(Parte 2)*.
@@ -42,6 +43,7 @@ Ye Wenjie se reúne con Luo Ji junto a la tumba de su hija y le sugiere crear la
 
 ### Primera Parte: Los Vallados (Año 3 de la Era de la Crisis) 
 Se establece la Fuerza Espacial. La ONU anuncia el Proyecto Vallado.
+
 * **Luo Ji** intenta rechazar el puesto, pero descubre la "paradoja del vallado": cualquier renuncia se interpreta como parte del plan. Pide una mansión y una esposa ideal (Zhuang Yan) para vivir lujosamente a costa del proyecto.
 * **Zhang Beihai** compra meteoritos para fabricar balas indetectables y asesina a viejos académicos en el espacio, forzando a la humanidad a adoptar motores de radiación (fusión) en lugar de químicos.
 
