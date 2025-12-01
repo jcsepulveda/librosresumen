@@ -41,7 +41,7 @@ Miembros de la OTT asignados para revelar los planes secretos de los Vallados.
 ### Prólogo: Los Axiomas
 Ye Wenjie se reúne con Luo Ji junto a la tumba de su hija y le sugiere crear la "Sociología Cósmica", dándole dos axiomas clave: 1) La supervivencia es la necesidad primordial; 2) La civilización crece, pero la materia es constante. Menciona las "cadenas de sospecha" y la "explosión tecnológica".
 
-### Primera Parte: Los Vallados (Año 3 de la Era de la Crisis) 
+### Primera Parte: Los Vallados (Año 3 de la Era de la Crisis)
 Se establece la Fuerza Espacial. La ONU anuncia el Proyecto Vallado.
 
 * **Luo Ji** intenta rechazar el puesto, pero descubre la "paradoja del vallado": cualquier renuncia se interpreta como parte del plan. Pide una mansión y una esposa ideal (Zhuang Yan) para vivir lujosamente a costa del proyecto.
