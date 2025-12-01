@@ -1,17 +1,24 @@
-/* --- REGISTRO DE ESTILOS PERSONALIZADOS --- */
+/* --- ESTILOS MEJORADOS PARA JUSTIFICACIÓN --- */
 
-/* 1. JUSTIFICACIÓN DE TEXTO */
-/* Aplicar la justificación a párrafos, listas y celdas de tabla */
+/* Aplicar la justificación a todos los elementos de texto principales:
+   párrafos, elementos dentro de listas (li), y celdas de tabla (td/th).
+   Se añaden selectores más específicos (p dentro de li) para forzar la justificación.
+*/
 .md-typeset p,
-.md-typeset li,
 .md-typeset blockquote,
 .md-typeset td,
-.md-typeset th {
+.md-typeset th,
+/* Selectores específicos para contenido de listas: */
+.md-typeset li p,      /* Párrafos anidados dentro de cualquier <li> */
+.md-typeset ul li,     /* Elementos de lista desordenada */
+.md-typeset ol li {    /* Elementos de lista ordenada */
     text-align: justify;
-    hyphens: auto; /* Opcional: Ayuda a la justificación con guiones */
+    hyphens: auto;
+    /* Word-break es un ajuste agresivo que a veces ayuda a justificar líneas cortas: */
+    word-break: break-word; 
 }
 
-/* 2. CENTRADO DE IMÁGENES (Mantenemos el ajuste opcional) */
+/* Opcional: Centrado de imágenes */
 .md-typeset img {
     display: block;
     margin-left: auto;
