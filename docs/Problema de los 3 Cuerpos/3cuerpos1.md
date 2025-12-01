@@ -1,12 +1,12 @@
 # Libro 1
 **Autor:** Cixin Liu
-
 **Formato de Referencia:** Por Capítulo
 
 ---
 
 ## 1. Resumen General
 La novela narra el primer contacto de la humanidad con una civilización alienígena, Trisolaris. La historia se divide en dos líneas temporales principales: 
+
 1. **El Pasado (La Revolución Cultural):** La astrofísica Ye Wenjie pierde la fe en la humanidad tras ver la brutalidad política y la destrucción ambiental, enviando un mensaje al espacio invitando a una invasión.
 2. **El Presente (La Crisis Científica):** El investigador Wang Miao y el policía Shi Qiang investigan suicidios de científicos y una organización secreta (OTT) que usa un videojuego de realidad virtual para reclutar rebeldes. 
 
