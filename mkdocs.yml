@@ -1,4 +1,5 @@
 site_name: Resúmen libros leídos
+site_url: https://jcsepulveda.github.io/librosresumen/
 theme:
   name: material
   language: es
