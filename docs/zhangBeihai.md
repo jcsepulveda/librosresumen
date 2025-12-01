@@ -10,6 +10,7 @@ Zhang Beihai es un oficial naval chino que transiciona a la Fuerza Espacial. Se 
 
 ## 2. La Influencia Paterna y la "Fe" (El Origen)
 Su visión estratégica nace de una conversación final con su padre, un general moribundo.
+
 * **El Consejo Críptico:** Su padre le dice: *"Tienes que pensarlo"* y *"piénsalo largo y tendido"*. Zhang interpreta esto como una orden para operar en las sombras, ocultando su verdadero objetivo (el Escapismo) bajo una máscara de lealtad absoluta [Libro 2 - Año 3 de la Era de la Crisis].
 * **La Máscara del Triunfalismo:** Para ganar poder dentro de la Fuerza Espacial, Zhang se fabrica una fachada de "Triunfalista". Critica el derrotismo de sus compañeros y promueve la fe ciega en la victoria humana. Esta máscara es tan perfecta que engaña a todos, incluido al astuto Da Shi y al sistema militar, permitiéndole ascender sin sospechas [Libro 2 - Año 3 de la Era de la Crisis].
 
