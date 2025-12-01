@@ -1,9 +1,17 @@
-/* Forzar la justificación en todos los párrafos de la página */
-.md-typeset p {
+/* --- REGISTRO DE ESTILOS PERSONALIZADOS --- */
+
+/* 1. JUSTIFICACIÓN DE TEXTO */
+/* Aplicar la justificación a párrafos, listas y celdas de tabla */
+.md-typeset p,
+.md-typeset li,
+.md-typeset blockquote,
+.md-typeset td,
+.md-typeset th {
     text-align: justify;
+    hyphens: auto; /* Opcional: Ayuda a la justificación con guiones */
 }
 
-/* Opcional: Centrar las imágenes para que se vean mejor */
+/* 2. CENTRADO DE IMÁGENES (Mantenemos el ajuste opcional) */
 .md-typeset img {
     display: block;
     margin-left: auto;
