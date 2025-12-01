@@ -1,0 +1,11 @@
+/* Forzar la justificación en todos los párrafos de la página */
+.md-typeset p {
+    text-align: justify;
+}
+
+/* Opcional: Centrar las imágenes para que se vean mejor */
+.md-typeset img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
