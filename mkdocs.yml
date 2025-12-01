@@ -1,7 +1,14 @@
-site_name: Resúmen libros leídos
+site_name: Biblioteca 3 Cuerpos
 site_url: https://jcsepulveda.github.io/librosresumen/
 theme:
   name: material
   language: es
   palette: 
-    - scheme: preference # Auto claro/oscuro
+    - scheme: preference
+  features:
+    - navigation.instant
+    - search.suggest
+    - search.highlight
+
+plugins:
+  - search
