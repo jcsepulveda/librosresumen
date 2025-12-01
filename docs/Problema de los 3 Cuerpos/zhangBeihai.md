@@ -1,4 +1,4 @@
-# Análisis Integral de Personaje: Zhang Beihai
+# Zhang Beihai
 **Fuentes:** *El Bosque Oscuro* (Libro 2) y *El Fin de la Muerte* (Libro 3)
 
 ---
