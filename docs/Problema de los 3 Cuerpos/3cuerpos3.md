@@ -1,5 +1,6 @@
 # Libro 3
 **Autor:** Cixin Liu
+
 **Formato de Referencia:** Por Era / Parte
 
 ---

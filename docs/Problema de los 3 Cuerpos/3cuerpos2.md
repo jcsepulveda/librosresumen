@@ -1,5 +1,6 @@
 # Libro 2
 **Autor:** Cixin Liu
+
 **Formato de Referencia:** Por Sección / Era
 
 ---
