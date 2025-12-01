@@ -25,6 +25,7 @@ Sabiendo que la tecnología tardará siglos en madurar, Zhang se ofrece voluntar
 
 ## 5. La Traición Necesaria: El Secuestro de "Selección Natural"
 Despierta 200 años después, en una era donde la humanidad cree arrogantemente que vencerá a Trisolaris. La flota, desconfiando de los capitanes modernos, le entrega el mando de la nave insignia *Selección Natural*.
+
 * **La Revelación:** En cuanto tiene el control, Zhang corta las comunicaciones y acelera a máxima potencia hacia el espacio profundo, desertando de la flota humana.
 * **La Confesión:** Revela a la tripulación: *"Es posible que haya desertado, pero no soy un traidor... Mi único deseo es salvar una de las naves estelares de la Tierra para preservar una semilla de la civilización humana"*. Su acción obliga a otras cuatro naves (*Espacio Azul*, *Enterprise*, etc.) a perseguirlo, salvándolas inadvertidamente de la aniquilación que sufre el resto de la flota principal ante la "Gota" trisolariana [Libro 2 - Año 205 de la Era de la Crisis].
 
