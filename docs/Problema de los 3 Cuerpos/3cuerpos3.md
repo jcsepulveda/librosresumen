@@ -73,6 +73,7 @@ El libro revela que el universo original tenía 10 dimensiones y la velocidad de
 
 ### B. Cheng Xin vs. Wade (Moralidad vs. Supervivencia)
 Es el conflicto central. Wade representa la supervivencia a cualquier precio ("Perder la humanidad es perder mucho, perder la bestialidad es perderlo todo"). Cheng Xin representa el amor y la moral.
+
 * **Resultado:** Las decisiones "morales" de Cheng Xin (no activar la disuasión, detener a Wade) llevan a la extinción del Sistema Solar. Sin embargo, el autor sugiere que sobrevivir sin moralidad (como Wade o los trisolarianos) podría no valer la pena.
 
 ### C. El Amor a través del Tiempo

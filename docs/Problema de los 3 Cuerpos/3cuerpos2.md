@@ -20,7 +20,7 @@ La novela abarca siglos, desde la Era de la Crisis hasta la Era del Bosque Oscur
 * **Manuel Rey Díaz:** Ex presidente de Venezuela. Su plan público son bombas estelares; su plan real es usar Mercurio para inducir una reacción en cadena que destruya el Sistema Solar como amenaza *(Parte 1 y 2)*.
 * **Bill Hines:** Neurocientífico. Su plan público es potenciar la inteligencia; su plan real es el "Precinto Mental" para implantar el derrotismo y forzar la huida de la humanidad *(Parte 1 y 2)*.
 
-### Los Desvalladores (Wallbreakers) 
+### Los Desvalladores (Wallbreakers)
 Miembros de la OTT asignados para revelar los planes secretos de los Vallados.
 
 * **Von Neumann:** Desvallador de Tyler *(Parte 2)*.
