@@ -16,6 +16,7 @@ Su visión estratégica nace de una conversación final con su padre, un general
 
 ## 3. El Punto de Inflexión Tecnológico (El Asesinato)
 Zhang identifica que la humanidad está cometiendo un error fatal al invertir en cohetes de propulsión química (útiles solo dentro del sistema solar) en lugar de propulsión por radiación/fusión (necesaria para el viaje interestelar y la huida).
+
 * **La Ejecución:** Compra meteoritos de hierro a un coleccionista y fabrica balas de hielo con núcleos de meteorito. En el espacio, asesina a tres viejos académicos conservadores que bloqueaban el avance de la fusión.
 * **El Impacto:** Las muertes parecen un accidente por "lluvia de meteoritos". Esto elimina la oposición política y fuerza a la humanidad a adoptar la tecnología de fusión, sin la cual la huida futura habría sido imposible [Libro 2 - Año 12 de la Era de la Crisis].
 
