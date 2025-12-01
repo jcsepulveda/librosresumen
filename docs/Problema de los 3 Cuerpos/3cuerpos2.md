@@ -20,8 +20,8 @@ La novela abarca siglos, desde la Era de la Crisis hasta la Era del Bosque Oscur
 * **Manuel Rey Díaz:** Ex presidente de Venezuela. Su plan público son bombas estelares; su plan real es usar Mercurio para inducir una reacción en cadena que destruya el Sistema Solar como amenaza *(Parte 1 y 2)*.
 * **Bill Hines:** Neurocientífico. Su plan público es potenciar la inteligencia; su plan real es el "Precinto Mental" para implantar el derrotismo y forzar la huida de la humanidad *(Parte 1 y 2)*.
 
-### Los Desvalladores (Wallbreakers)
-Miembros de la OTT asignados para revelar los planes secretos de los Vallados. 
+### Los Desvalladores (Wallbreakers) 
+Miembros de la OTT asignados para revelar los planes secretos de los Vallados.
 * **Von Neumann:** Desvallador de Tyler *(Parte 2)*.
 * **Mozi:** Desvallador de Rey Díaz *(Parte 2)*.
 * **Aristóteles:** Desvallador de Hines *(Parte 2)*.
@@ -40,7 +40,7 @@ Miembros de la OTT asignados para revelar los planes secretos de los Vallados.
 ### Prólogo: Los Axiomas
 Ye Wenjie se reúne con Luo Ji junto a la tumba de su hija y le sugiere crear la "Sociología Cósmica", dándole dos axiomas clave: 1) La supervivencia es la necesidad primordial; 2) La civilización crece, pero la materia es constante. Menciona las "cadenas de sospecha" y la "explosión tecnológica".
 
-### Primera Parte: Los Vallados (Año 3 de la Era de la Crisis)
+### Primera Parte: Los Vallados (Año 3 de la Era de la Crisis) 
 Se establece la Fuerza Espacial. La ONU anuncia el Proyecto Vallado.
 * **Luo Ji** intenta rechazar el puesto, pero descubre la "paradoja del vallado": cualquier renuncia se interpreta como parte del plan. Pide una mansión y una esposa ideal (Zhuang Yan) para vivir lujosamente a costa del proyecto.
 * **Zhang Beihai** compra meteoritos para fabricar balas indetectables y asesina a viejos académicos en el espacio, forzando a la humanidad a adoptar motores de radiación (fusión) en lugar de químicos.
