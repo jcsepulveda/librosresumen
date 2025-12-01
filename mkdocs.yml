@@ -1,0 +1,6 @@
+site_name: Resúmen libros leídos
+theme:
+  name: material
+  language: es
+  palette: 
+    - scheme: preference # Auto claro/oscuro
