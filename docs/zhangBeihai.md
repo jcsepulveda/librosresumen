@@ -31,6 +31,7 @@ Despierta 200 años después, en una era donde la humanidad cree arrogantemente 
 
 ## 6. El Nacimiento de la "Humanidad Galáctica" y la Muerte
 En el espacio profundo, las naves supervivientes forman la nación "Nave Tierra". Zhang Beihai renuncia al poder, demostrando que no es un dictador. Sin embargo, se da cuenta de la cruel verdad del universo (la *Sociología Cósmica*): no hay recursos para todos. Para que una nave sobreviva, las otras deben morir y ceder sus recursos.
+
 * **El Final de Zhang:** Se prepara para atacar a las otras naves, pero en el último segundo, una chispa de "vieja humanidad" le hace dudar. Esa duda le cuesta la vida. La nave *Ley Final* ataca primero y destruye *Selección Natural*.
 * **Sus Últimas Palabras:** Al morir, sonríe y dice: *"No importa. Es igual"*. Esto confirma su victoria final: no le importaba su vida, solo que *alguna* nave humana (finalmente fue *Espacio Azul*) sobreviviera para continuar la especie [Libro 2 - Año 205 de la Era de la Crisis].
 
