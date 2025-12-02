@@ -1,4 +1,4 @@
-# La Guerra de los Mundos - H.G. Wells
+# La Guerra de los Mundos
 
 ## 1. Resumen General
 
