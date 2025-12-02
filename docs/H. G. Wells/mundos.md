@@ -49,6 +49,7 @@ La novela se estructura en dos libros. El primero detalla la llegada, la masacre
 
 ### Trama Principal: La Supervivencia del Narrador (Surrey)
 Sigue el viaje físico y psicológico del narrador desde la caída del primer cilindro en Woking. Abarca su huida inicial, su regreso imprudente a Maybury, su aislamiento tras las líneas enemigas, el traumático encierro en la casa en ruinas con el vicario, y su posterior vagabundeo por un Londres muerto hasta el desenlace natural de los invasores.
+
 * **Temas:** La fragilidad de la civilización, la evolución biológica, el miedo, la soledad.
 
 ### Subtrama 1: El Éxodo de Londres (El Hermano)
@@ -56,6 +57,7 @@ Narra el impacto de la invasión en la metrópolis. Detalla la incredulidad inic
 
 ### Subtrama 2: Filosofías de Supervivencia
 Contraste entre tres visiones ante el apocalipsis:
+
 1.  **El Vicario:** La desesperación religiosa y la incapacidad de adaptación.
 2.  **El Artillero:** La supervivencia cínica, el regreso a la barbarie y la aceptación de un rol subordinado (humanos como mascotas o ratas subterráneas).
 3.  **El Narrador:** La observación racional, la esperanza humanista y la resistencia mental.
