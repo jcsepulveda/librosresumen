@@ -1,11 +1,6 @@
-# La ciudad y los perros (Mario Vargas Llosa) — Resumen completo, personajes y tramas
+# La ciudad y los perros  
 
-> Documento de trabajo (resumen y guía de personajes).  
-> **Nota:** Este contenido es un **resumen** y análisis; no reproduce el texto original.
-
----
-
-## 1) Resumen general (muy completo)
+## 1) Resumen general
 
 La novela se sitúa principalmente en el **Colegio Militar Leoncio Prado** (Lima), un internado donde adolescentes son formados bajo un régimen de disciplina rígida. En ese microcosmos cerrado, se instala una **ley paralela**: la jerarquía real la imponen los alumnos más duros, que normalizan humillaciones, violencia y pactos de silencio. El colegio, que oficialmente pretende formar “hombres”, termina funcionando como una máquina que **produce brutalidad, miedo y complicidad**.
 
@@ -26,7 +21,7 @@ Fuera del colegio, la historia de **Alberto** muestra otra dimensión: la salida
 
 ---
 
-## 2) Estructura narrativa (para entender por qué confunde al inicio)
+## 2) Estructura narrativa
 
 La novela está construida con **múltiples voces** y cambios de foco:
 
@@ -38,7 +33,7 @@ Este diseño no es un “truco”: reproduce la idea de que, en un sistema de vi
 
 ---
 
-## 3) Tramas principales y subtramas (con detalle)
+## 3) Tramas principales y subtramas
 
 ### 3.1 Trama principal: violencia institucional y pacto de silencio
 
@@ -85,7 +80,7 @@ Este diseño no es un “truco”: reproduce la idea de que, en un sistema de vi
 
 ---
 
-## 4) Personajes (listado y ficha breve)
+## 4) Personajes
 
 > Los apodos son esenciales: en el colegio, la identidad se construye por reputación.
 
@@ -153,7 +148,7 @@ Este diseño no es un “truco”: reproduce la idea de que, en un sistema de vi
   Asociado al espacio de castigo/control (“prevención”).  
   **Relaciones:** roces con Gamboa; representa una cara áspera del aparato disciplinario.
 
-### 4.3 Mundo civil (familias, barrio, relaciones)
+### 4.3 Mundo civil
 
 - **Teresa**  
   Joven del mundo civil; eje afectivo que conecta a Alberto y al Esclavo.  
@@ -197,7 +192,7 @@ Este diseño no es un “truco”: reproduce la idea de que, en un sistema de vi
 
 ---
 
-## 5) Relaciones clave (mapa textual)
+## 5) Relaciones clave
 
 ### 5.1 Eje colegio: poder y violencia
 
@@ -225,7 +220,7 @@ Este diseño no es un “truco”: reproduce la idea de que, en un sistema de vi
 
 ---
 
-## 6) Lectura interpretativa (breve, pero útil)
+## 6) Lectura interpretativa
 
 - La novela sugiere que la violencia es **sistémica**, no individual.  
 - La verdad existe, pero el sistema aprende a vivir **sin ella**.  
@@ -234,7 +229,7 @@ Este diseño no es un “truco”: reproduce la idea de que, en un sistema de vi
 
 ---
 
-## 7) Guía rápida para releer (opcional)
+## 7) Guía rápida para releer
 
 Si la releyeras, fíjate en:
 
