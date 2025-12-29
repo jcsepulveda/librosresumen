@@ -12,6 +12,7 @@ La novela se sitúa principalmente en el **Colegio Militar Leoncio Prado** (Lima
 En ese entorno, un grupo de cadetes organiza una red clandestina conocida como **“el Círculo”**, que controla transacciones y protege a los suyos. Dentro del grupo destacan figuras como **el Jaguar** (líder de facto), **el Boa** (fuerza física), y **Alberto “el Poeta”** (inteligente, observador, que circula entre varios mundos). En el extremo opuesto está **Ricardo Arana “el Esclavo”**, cadete frágil y humillado, que se vuelve el blanco preferido del abuso.
 
 Todo se precipita con el **robo de un examen**. Para evitar que se descubra al responsable, el Círculo opera con su lógica interna: se protege al grupo, se castiga al débil, se manipula la información. En paralelo, las autoridades intentan controlar el orden y encontrar culpables, pero lo que realmente emerge es el choque entre dos sistemas:  
+
 - el **sistema formal** (disciplina, reglamento, prestigio institucional), y  
 - el **sistema real** (violencia cotidiana, pactos de silencio, códigos de la sección).
 
@@ -28,6 +29,7 @@ Fuera del colegio, la historia de **Alberto** muestra otra dimensión: la salida
 ## 2) Estructura narrativa (para entender por qué confunde al inicio)
 
 La novela está construida con **múltiples voces** y cambios de foco:
+
 - Alterna escenas del colegio con escenas del mundo civil.
 - Usa **fragmentación temporal** (recuerdos, saltos).
 - Presenta primera persona en segmentos que el lector debe atribuir por contexto.
@@ -39,37 +41,44 @@ Este diseño no es un “truco”: reproduce la idea de que, en un sistema de vi
 ## 3) Tramas principales y subtramas (con detalle)
 
 ### 3.1 Trama principal: violencia institucional y pacto de silencio
+
 - El colegio funciona como un entorno que legitima la agresión.
 - El Círculo impone un orden informal.
 - La muerte del Esclavo destapa el conflicto entre investigación y encubrimiento.
 - La institución prioriza reputación/estabilidad sobre verdad.
 
 ### 3.2 Trama del robo del examen
+
 - El robo gatilla la crisis.
 - El grupo protege al responsable y reacciona castigando o presionando a quienes ponen al grupo en riesgo.
 - El hecho del examen se enlaza con la persecución del “delator” y con la cadena que conduce al desenlace.
 
 ### 3.3 Trama del Esclavo: vulnerabilidad, desesperación y ruptura
+
 - Arana es progresivamente aislado y humillado.
 - Su intento de buscar amparo en la autoridad agrava su situación dentro del grupo.
 - La tragedia final es la culminación de un proceso de hostigamiento.
 
 ### 3.4 Trama de Gamboa: ética individual contra el sistema
+
 - Gamboa representa la posibilidad de una justicia interna “real”.
 - Su límite: la institución no está diseñada para admitir el costo de la verdad.
 - Termina chocando con superiores y con el dispositivo de encubrimiento.
 
 ### 3.5 Trama del Jaguar: liderazgo, violencia y culpa
+
 - El Jaguar es el centro del poder estudiantil.
 - Su arco muestra cómo la violencia puede coexistir con una conciencia tardía.
 - Su gesto final es una aceptación de responsabilidad que no encaja con el sistema.
 
 ### 3.6 Trama de Alberto (el Poeta): aprendizaje, escritura y acomodación social
+
 - En el colegio, Alberto observa y participa; aprende códigos de supervivencia.
 - Fuera del colegio, su vida sentimental y familiar evidencia tensiones de clase y expectativas paternas.
 - Su “madurez” es, en gran medida, adaptación a lo socialmente esperado.
 
 ### 3.7 Trama sentimental (Teresa / Marcela / Helena)
+
 - Teresa encarna un vínculo afectivo ligado a un mundo más precario y “peligroso” socialmente.
 - Marcela se asocia a la normalización y a una vida “presentable”.
 - Helena aparece como referencia del pasado sentimental de Alberto, útil para entender su modo de amar/idealizar.
@@ -191,22 +200,26 @@ Este diseño no es un “truco”: reproduce la idea de que, en un sistema de vi
 ## 5) Relaciones clave (mapa textual)
 
 ### 5.1 Eje colegio: poder y violencia
+
 - **Jaguar → (lidera) → Círculo → (protege) → miembros**
 - **Boa → (ejecuta) → violencia / amenazas**
 - **Esclavo → (padece) → hostigamiento del grupo**
 
 ### 5.2 Eje investigación: verdad vs institución
+
 - **Gamboa → (investiga) → muerte del Esclavo**
 - **Garrido / jerarquía → (contiene) → investigación**
 - **Cadetes → (callan/mienten) → pacto de silencio**
 
 ### 5.3 Eje afectivo: Teresa como cruce de mundos
+
 - **Teresa ↔ Alberto (Poeta)** (vínculo afectivo; tensión por expectativas sociales)
 - **Teresa ↔ Ricardo Arana** (vínculo afectivo; vulnerabilidad y esperanza)
 - **Alberto ↔ Marcela** (normalización e integración social)
 - **Alberto ↔ Helena** (pasado sentimental / contraste)
 
 ### 5.4 Eje familiar: padre de Alberto como molde
+
 - **Padre de Alberto → (expectativas) → Alberto**
 - **Carmela ↔ Padre de Alberto** (conflicto doméstico que condiciona a Alberto)
 
@@ -224,6 +237,7 @@ Este diseño no es un “truco”: reproduce la idea de que, en un sistema de vi
 ## 7) Guía rápida para releer (opcional)
 
 Si la releyeras, fíjate en:
+
 - cómo se construye el “honor” como máscara,
 - cómo el miedo define lealtades,
 - cómo los vínculos civiles (Teresa, familia) funcionan como contraste,
