@@ -185,84 +185,168 @@ De vuelta al presente, la ***Blip-A*** se aproxima y despliega un túnel de xeno
 
 ### Capítulo 10
 
-Grace y Rocky se encuentran cara a cara a través de una pared transparente de xenonita. Rocky es un ser con apariencia de araña de cinco patas y caparazón pétreo. Descubren que sus atmósferas son incompatibles: Grace respira oxígeno a baja presión y Rocky respira amoníaco a alta presión y temperatura. Grace deduce que Rocky es ciego a la luz y "ve" mediante un sonar pasivo.
+Ryland Grace responde a los tres golpes provenientes del otro lado de la pared del túnel con sus propios nudillos. Al inspeccionar la pared divisoria, descubre un hexágono transparente que le permite ver el brazo y la mano de un alienígena, la cual tiene tres dedos triangulares y una piel con textura de roca oscura. El ser extraterrestre utiliza pequeñas maquetas de xenonita para indicarle a Grace que debe regresar a su nave. Grace bautiza temporalmente al alienígena como "Rocky" y nota que el ser no parece utilizar luz para ver, sino que probablemente depende del sonido o sonar pasivo para percibir su entorno.
+
+Tras una breve ausencia, Grace regresa al túnel y se encuentra cara a cara con Rocky a través de una nueva pared transparente; observa que es un ser con simetría pentagonal, cinco extremidades que terminan en manos y un caparazón central, vestido con una especie de camisa. Rocky se comunica mediante acordes musicales audibles para los humanos, lo que confirma que posee un lenguaje y rangos de audición compatibles. A través de maquetas químicas entregadas por Rocky, Grace deduce que los eridianos respiran amoníaco y viven en una atmósfera con una presión veintinueve veces superior a la de la *Hail Mary*.
+
+Para coordinar sus encuentros y periodos de descanso, Grace utiliza un reloj analógico para enseñarle el concepto de tiempo humano, y Rocky responde mostrando su propio reloj digital. Grace descubre que los eridianos utilizan un sistema numérico de base seis y, tras realizar un experimento con su cronómetro, calcula que un segundo eridiano equivale a 2,366 segundos terrestres. Finalmente, establecen una dinámica de trabajo compartida basada en conceptos científicos universales, preparándose para colaborar en la solución al problema de los astrófagos.
 
 ### Capítulo 11
 
-Comienzan a establecer un sistema de comunicación. Grace enseña a Rocky los números decimales y unidades de medida humanas, mientras descubre que los eridianos usan la base seis y tienen una memoria auditiva perfecta. Un recuerdo muestra a Stratt ignorando leyes de propiedad intelectual para cargar todo el conocimiento humano en los ordenadores de la nave.
+Grace despierta tras una breve siesta y regresa al túnel, donde descubre que Rocky ha construido una esclusa de aire más grande y cuadrada en la pared divisoria para facilitar el intercambio de objetos. Para avanzar en su comunicación científica, Grace intenta enseñar a Rocky el concepto de longitud utilizando una cinta métrica decimal; sin embargo, al introducirla en el lado eridiano, la goma de la herramienta se funde instantáneamente debido a que el ambiente de Rocky supera los 200 °C.
+
+Grace tiene una revelación clave: Rocky no tiene ojos y es ciego a la luz, percibiendo su entorno exclusivamente mediante un sonar pasivo. El protagonista confirma esta teoría al sostener una lámina de aluminio entre él y el alienígena; mientras que la luz es bloqueada, el sonido atraviesa el metal, permitiendo a Rocky "ver" cuántos dedos levanta Grace.
+
+En un recuerdo del pasado, Eva Stratt comparece ante un tribunal por violar leyes de propiedad intelectual al copiar masivamente software y libros para la misión; Stratt reclama inmunidad total, argumentando que el éxito de la *Hail Mary* requiere que la tripulación disponga de todo el conocimiento humano reunido. De vuelta en el presente, Grace localiza software de análisis de audio en la biblioteca digital de la nave para traducir los acordes de Rocky en tiempo real y establece un sistema de monitoreo con cámaras para coordinar sus horarios de sueño.
 
 ### Capítulo 12
 
-Usando un software de análisis de audio, Grace traduce el lenguaje musical de Rocky. Rocky revela que es el único superviviente de una tripulación de veintitrés miembros. Ambos acuerdan vigilarse mutuamente mientras duermen, una costumbre cultural eridiana.
+Ryland Grace despierta tras un sueño profundo de diez horas y encuentra a un Rocky visiblemente molesto por su tardanza. Para agilizar la comunicación, Grace desarrolla un sistema de traducción en tiempo real utilizando dos computadores y un script que identifica los acordes musicales de Rocky y los busca en una base de datos, lo que les permite ampliar su vocabulario compartido a miles de palabras. Grace nota que, a diferencia de los humanos, los eridianos poseen una memoria auditiva perfecta y no necesitan registrar la información por escrito.
+
+Durante su conversación, Grace le muestra un vial de astrófagos, y Rocky confirma que estos organismos también están destruyendo su sistema estelar natal, 40 Eridani, al que llaman "Erid". La charla toma un tono sombrío cuando ambos revelan la pérdida de sus tripulaciones: Rocky confiesa que es el único sobreviviente de un grupo original de veintitrés miembros.
+
+Finalmente, discuten sus procesos biológicos de descanso; Grace aprende que los eridianos "duermen" quedando totalmente paralizados para que sus cuerpos se enfríen, y que vigilar el sueño de otro es una norma cultural fundamental para ellos. En un gesto de confianza, Grace traslada su colchón y ropa de cama al túnel para dormir bajo la vigilancia de Rocky, sellando una alianza emocional y científica entre los últimos representantes de sus especies.
 
 ### Capítulo 13
 
-Un recuerdo describe el reclutamiento de Robert Redell, quien diseñó los "paneles negros" para criar astrófagos masivamente en el Sáhara. Presente: Grace explica a Rocky qué es la radiación, algo que los eridianos desconocían debido al fuerte campo magnético de su planeta. Grace deduce que Rocky sobrevivió porque su taller estaba rodeado de combustible de astrófago, que bloqueó la radiación.
+En un recuerdo del pasado, Eva Stratt y Grace visitan la prisión de máxima seguridad de Auckland para reclutar a Robert "Bob" Redell, un ingeniero condenado por malversación y por la muerte de siete personas en un accidente solar. Redell convence a Stratt con su proyecto de los "paneles negros": una red masiva de colectores solares en el desierto del Sáhara diseñada para criar las toneladas de combustible de astrófago necesarias para el viaje interestelar, a cambio de su libertad y un papel clave en la misión.
+
+En el tiempo presente, Grace y Rocky han avanzado significativamente en su lenguaje compartido, permitiéndoles discutir temas científicos complejos. Grace llega a la conclusión de que la tripulación de Rocky murió de envenenamiento por radiación, un concepto que los eridianos nunca descubrieron debido a que el inmenso campo magnético y la densa atmósfera de su planeta, Erid, bloquean por completo los rayos cósmicos. Rocky sobrevivió fortuitamente porque su taller estaba rodeado de depósitos de astrófagos, microorganismos que absorben la radiación de forma extremadamente eficiente.
+
+Finalmente, reflexionan sobre la similitud de su desarrollo tecnológico a pesar de haber evolucionado en sistemas estelares distintos. Esto lleva a Rocky a proponer la teoría de la panspermia, sugiriendo que la vida en la Tierra y en Erid (así como los propios astrófagos) podría tener un ancestro común que se propagó por la galaxia hace miles de millones de años.
 
 ### Capítulo 14
 
-Recuerdo: El climatólogo François Leclerc ordena detonar armas nucleares en la Antártida para liberar metano y generar un efecto invernadero artificial que gane tiempo contra la glaciación. Presente: Grace y Rocky discuten la teoría de la panspermia, sospechando que ambas especies tienen un ancestro común.
+En un recuerdo del pasado, Eva Stratt presenta al climatólogo François Leclerc, quien advierte que la reducción de la energía solar matará a la mitad de la población mundial en solo diecinueve años debido al colapso de las cosechas. Dado que la misión *Hail Mary* requiere al menos veintiséis años para enviar una solución a la Tierra, Stratt ordena a Leclerc implementar un plan extremo: detonar 241 armas nucleares en la Antártida para liberar metano atrapado en el hielo y generar un efecto invernadero artificial que frene la glaciación. A pesar de su dolor personal, Leclerc ejecuta la orden, provocando una masiva disrupción climática deliberada para salvar a la especie humana.
+
+En el presente, Grace y Rocky intercambian conocimientos sobre sus fisiologías radicalmente distintas. Grace aprende que los eridianos son auténticos "hornos de fundición biológicos" con sangre de mercurio, huesos de aleaciones metálicas y músculos que funcionan mediante un complejo sistema de vapor. Debido a su entorno nativo oscuro, los eridianos carecen de vista, por lo que Rocky queda fascinado ante la capacidad humana de "oír la luz".
+
+Finalmente, Rocky utiliza su avanzada ingeniería para construir una burbuja de soporte vital geodésica hecha de xenonita transparente, que le permite mantener sus condiciones de presión y temperatura. Con este dispositivo, Rocky puede entrar en las secciones humanas de la *Hail Mary* para estudiar la tecnología de Grace y colaborar directamente en la búsqueda de un depredador para los astrófagos, utilizando inteligentemente a los mismos microbios para enfriar su aire acondicionado.
 
 ### Capítulo 15
 
-Recuerdo: La doctora Lamai presenta la tecnología de coma inducido y el robot médico. Presente: Rocky construye una burbuja de soporte vital para poder entrar en la sección humana de la *Hail Mary* y colaborar directamente.
+Rocky instala un nuevo túnel de conexión y entra finalmente a la *Hail Mary* dentro de su burbuja geodésica, utilizando imanes para desplazarse por una guía metálica. Grace le da un recorrido por la nave; a pesar de ser más pequeño, Rocky pesa 168 kg debido a su biología metálica y queda profundamente impresionado por la tecnología humana, especialmente por las "máquinas que piensan" (computadores) y la impresora 3D. Ante esto, el eridiano propone un plan de colaboración: trasladará su equipo a la nave de Grace para trabajar juntos en el laboratorio, mientras el humano activa la gravedad artificial por centrifugación para optimizar los experimentos.
+
+En un recuerdo del pasado, Eva Stratt presenta a la doctora Lamai, responsable de la tecnología de coma inducido y del robot médico automatizado diseñado para cuidar a la tripulación durante los años de viaje. Lamai explica que el sistema es un algoritmo procedimental complejo, no una inteligencia artificial, lo que permite prever todas sus reacciones médicas.
+
+Stratt somete a Grace y a sí misma a pruebas de marcadores genéticos para verificar su resistencia al coma, revelando que cuentan con miles de voluntarios, incluidos astronautas experimentados, dispuestos a aceptar la misión suicida de solo ida. Esta revelación subraya la desesperada búsqueda de candidatos aptos para una tarea donde la mayoría de la población mundial quedaría descartada por su propia genética.
 
 ### Capítulo 16
 
-Grace pone rumbo al planeta "Adrian" (Tau Ceti e), donde Rocky detectó que se originan los astrófagos. Rocky ofrece a Grace combustible suficiente de su propia nave para que este pueda regresar a la Tierra tras la misión. Un recuerdo muestra el entrenamiento de la tripulación original y cómo Stratt separaba a los candidatos para evitar "tensiones".
+Grace traza un rumbo hacia el planeta "Adrian" (Tau Ceti e), el lugar donde Rocky ha identificado que se reproducen los astrófagos debido a su atmósfera rica en dióxido de carbono. Durante el trayecto, Rocky revela detalles sobre su especie: tiene 291 años terrestres de edad y los eridianos pueden vivir hasta siete siglos. La tensión de Grace por estar en una misión de solo ida se disipa cuando Rocky le ofrece generosamente dos millones de kilogramos de combustible de astrófago de su propio excedente para que el humano pueda regresar a la Tierra tras completar la misión.
+
+En un recuerdo del pasado, Eva Stratt presenta a las tripulaciones principal y de reserva del Proyecto Hail Mary, formadas por astronautas resistentes al coma como el comandante Yáo, la ingeniera rusa Iliujina y el biólogo Martin DuBois. Stratt explica sus polémicos criterios de selección, diseñados para minimizar conflictos psicológicos y tensiones sexuales en el confinamiento del espacio.
+
+Un momento clave ocurre cuando DuBois le revela a Grace que él también posee los marcadores genéticos de resistencia al coma, una información que Stratt le había ocultado para mantenerlo trabajando en el proyecto sin distracciones. Finalmente, Grace asume el rol de instructor científico de los astronautas, preparándolos para enfrentar la amenaza biológica de los astrófagos en el sistema Tau Ceti.
 
 ### Capítulo 17
 
-Al llegar a Adrian, Grace recoge una muestra de la atmósfera superior mediante una sonda y descubre una biosfera compleja. Identifica a la "taumeba", un microorganismo que depreda a los astrófagos y que podría ser la clave para salvar sus sistemas solares.
+La *Hail Mary* se sitúa en órbita sobre el planeta Adrian, donde Grace utiliza el espectrómetro para confirmar que su atmósfera está compuesta mayoritariamente por dióxido de carbono y una cantidad inusual de metano, lo que sugiere actividad biológica en el planeta. Tras realizar una actividad extravehicular (EVA) para recoger la Unidad de Recolección Externa, Grace regresa al laboratorio para analizar la muestra bajo gravedad artificial.
+
+El examen microscópico revela una biosfera compleja y diversa, muy distinta al monocultivo de astrófagos que se observa en el Sol. En un momento de euforia científica, Grace identifica a un depredador natural de los astrófagos: un microorganismo amorfo al que bautiza como "taumeba". Rocky celebra efusivamente el descubrimiento, pues la taumeba representa la herramienta definitiva para salvar tanto a Erid como a la Tierra.
+
+En un recuerdo del pasado, Grace entrena a los especialistas Martin DuBois y Annie Shapiro en el Laboratorio de Flotabilidad Neutral de la NASA, probando herramientas de microbiología diseñadas para funcionar en el vacío. Durante estas sesiones, los astronautas le confiesan a Grace que han iniciado una relación sexual activa; a pesar de la incomodidad del profesor, DuBois y Shapiro sostienen que su vínculo es una forma de encontrar consuelo ante la perspectiva inevitable de morir en la misión suicida.
 
 ### Capítulo 18
 
-Recuerdo: La tripulación presencia el lanzamiento de los módulos de la *Hail Mary* desde Baikonur. Presente: Grace intenta criar taumebas en el laboratorio, pero descubre que el nitrógeno (presente en Venus y el sistema de Rocky) es letal para ellas. Deciden usar la selección artificial para criar una cepa resistente al nitrógeno.
+En un recuerdo del pasado, la tripulación principal y de reserva presencia el lanzamiento de los módulos habitacionales de la *Hail Mary* desde el cosmódromo de Baikonur; Iliujina celebra ruidosamente con vodka mientras el comandante Yáo observa con una mezcla de estoicismo y orgullo contenido. Durante este evento, Martin DuBois le señala a Grace que él es, en la práctica, el "número dos" de Eva Stratt dentro del proyecto, una idea que Grace rechaza a pesar de la percepción general de sus colegas.
+
+En el presente, Grace intenta sin éxito criar taumebas en el laboratorio bajo condiciones simuladas, dándose cuenta de que los microorganismos no consumen los astrófagos como se esperaba. Tras analizar los datos del petrovascopio, Grace y Rocky descubren que la zona de reproducción activa de los astrófagos en Adrian se encuentra a una altitud específica de 91,2 kilómetros.
+
+Ante la imposibilidad de acercar la nave tanto a la atmósfera sin destruirla, a Grace se le ocurre un plan audaz: fabricar una cadena de xenonita de diez kilómetros de largo para arrastrar un muestreador ("ir de pesca") por la atmósfera de Adrian mientras la nave mantiene su posición mediante sus motores en un ángulo de sesenta grados. Finalmente, Rocky revela una asombrosa carencia en el conocimiento eridiano: su civilización no descubrió la teoría de la relatividad y calculó todo su viaje interestelar basándose en la física newtoniana, lo que resultó en un inmenso error de cálculo que les permitió llegar a Tau Ceti con un excedente masivo de combustible.
 
 ### Capítulo 19
 
-Construyen 10 kilómetros de cadena de xenonita para obtener una muestra de taumebas de una zona más profunda de la atmósfera de Adrian. La maniobra es peligrosa debido al calor reflejado de los motores.
+Grace y Rocky dedican dos semanas consecutivas a la agotadora tarea de fabricar y ensamblar doscientos mil eslabones de xenonita para completar la cadena de diez kilómetros necesaria para la misión. Rocky, demostrando su genio para la ingeniería, diseña una sonda recolectora esférica equipada con sensores de presión, calefacción y un transmisor de radio eridiano para asegurar que la muestra de aire de Adrian permanezca en condiciones óptimas.
+
+Inician la maniobra de recolección posicionando la *Hail Mary* en un ángulo de sesenta grados; el escape infrarrojo de los motores es tan potente que ioniza la atmósfera de Adrian, provocando un resplandor rojo visible y un aumento extremo de la temperatura en el casco de la nave. Tras el despliegue exitoso de las veinte bobinas de cadena, Rocky confirma que la sonda ha alcanzado la altitud crítica y ha sellado herméticamente la muestra de aire.
+
+El proceso de recuperación exige que Grace realice una actividad extravehicular (EVA) sumamente difícil bajo una gravedad de 1,4 g, operando un cabrestante diseñado por Rocky para recoger la cadena y separar los eslabones. Justo cuando Grace logra asegurar la sonda recolectora en su pecho para regresar a la esclusa, la nave sufre una sacudida violenta y repentina, inclinándose fuera de su rumbo previsto y lanzando al protagonista contra el casco.
 
 ### Capítulo 20
 
-Durante la recuperación de la muestra, el casco se funde por el calor, provocando una fuga de combustible que genera aceleraciones incontroladas de hasta 6 g. Rocky arriesga su vida entrando en la zona humana sin su protección para salvar a Grace de ser aplastado por su propia silla. Ambos quedan gravemente heridos; Rocky sufre quemaduras internas por el oxígeno.
+Grace logra ingresar a la esclusa de aire justo antes de que la *Hail Mary* sufra una serie de sacudidas violentas causadas por una falla estructural masiva. El calor extremo reflejado desde la atmósfera de Adrian fundió una sección del casco, abriendo un agujero de veinte metros en los depósitos de combustible de babor. Al quedar expuestos al espacio, los astrófagos detectan el dióxido de carbono del planeta e inician una migración instintiva hacia Adrian, lo que genera un impulso incontrolado y caótico que hace girar la nave violentamente.
+
+Sometido a fuerzas de hasta 6 g que le impiden ver con claridad, Grace lucha por alcanzar los controles y logra desprender manualmente los depósitos dañados para detener la aceleración. Sin embargo, la fuerza centrípeta es tan intensa que los anclajes de su asiento de piloto ceden, lanzando la pesada estructura sobre Grace y aplastándolo contra los paneles de control, lo que le provoca una asfixia mecánica inminente.
+
+En un sacrificio heroico, Rocky abandona su compartimento presurizado y entra en la sección humana sin su burbuja de soporte vital para salvar a su amigo. Rocky logra arrancar la silla que asfixia a Grace, pero la atmósfera de oxígeno y la baja presión queman sus órganos internos, provocando que se desplome inconsciente mientras el humo emana de su radiador.
 
 ### Capítulo 21
 
-Recuerdo: Grace se reúne con la tripulación para discutir sus métodos preferidos de suicidio una vez terminada la misión. Presente: Grace limpia accidentalmente las "costras" curativas del radiador de Rocky pensando que era hollín, pero Rocky sobrevive y comienza a sanar.
+Grace despierta herido y vendado en su litera tras el accidente en Adrian, descubriendo que Rocky permanece inmóvil en la esclusa de aire, donde su radiador sufrió daños severos por la exposición al oxígeno. Tras estabilizar la rotación de la nave para trabajar bajo 0,5 g de gravedad, Grace se asegura de replicar el entorno atmosférico de Adrian para la muestra recolectada, alimentándola con astrófagos terrestres en un contenedor hermético.
+
+Al notar que los respiraderos de Rocky están obstruidos por una sustancia negra que confunde con hollín, Grace construye un dispositivo de aire a alta presión y perfora la pared de xenonita de la esclusa para limpiar los órganos de su amigo. Sin embargo, cuando Rocky recupera la conciencia, le revela a Grace que esa sustancia eran en realidad "costras" biológicas producidas por su cuerpo para sanar sus heridas internas, y que al quitárselas casi lo mata.
+
+En un recuerdo del pasado, Grace se reúne con la tripulación de la *Hail Mary* para discutir sus métodos preferidos de suicidio una vez terminada la misión interestelar. Martin DuBois elige la asfixia por nitrógeno, Olesia Iliujina solicita una dosis letal de heroína para disfrutar de sus últimos momentos, y el comandante Yáo prefiere una pistola reglamentaria china para asegurar un final rápido si los otros métodos fallan.
 
 ### Capítulo 22
 
-Recuerdo: Martin DuBois y Annie Shapiro mueren en una explosión accidental en Baikonur por un error en el manejo de astrófagos. Presente: Grace descubre que las taumebas se escaparon e infectaron el combustible de la *Hail Mary*. Decide usar el combustible de las sondas "escarabajo" para recuperar energía y motores.
+Grace despierta y descubre con horror que la nave ha perdido toda su energía eléctrica; tras reiniciar el sistema en modo seguro, se da cuenta de que el soporte vital y el control de temperatura están desconectados. Al investigar los generadores en la zona de almacenamiento, Grace abre una línea de combustible y encuentra un fluido maloliente que, al ser examinado bajo el microscopio, revela una infestación masiva de taumebas. Los microorganismos han devorado la totalidad de los astrófagos en los depósitos de combustible de la nave, dejándola a la deriva y sin potencia.
+
+Mientras Rocky se ofrece a limpiar y esterilizar un generador para restaurar la electricidad, Grace tiene una revelación crucial: las cuatro sondas "escarabajo" poseen sus propios depósitos de combustible sellados herméticamente con 120 kilogramos de astrófagos cada una, lo que representa una fuente de energía vital para su supervivencia.
+
+En un recuerdo del pasado, Eva Stratt informa sobre la causa de la explosión en el centro de investigación de Baikonur: Martin DuBois y Annie Shapiro intentaron probar un generador utilizando accidentalmente un miligramo de astrófagos en lugar de un nanogramo, lo que liberó un millón de veces más energía de la esperada y volatilizó el edificio. Tras la muerte de los especialistas de ciencia titular y reserva, Stratt le comunica a Grace que deben encontrar un sustituto en solo nueve días para no perder la ventana de lanzamiento de la misión.
 
 ### Capítulo 23
 
-Recuerdo: Stratt le comunica a Grace que él es el nuevo especialista de ciencia debido a su resistencia genética al coma y su conocimiento único. Grace se niega a ir. Presente: Modifican los "escarabajos" para que actúen como motores externos y estabilicen la nave.
+En un recuerdo del pasado posterior a la tragedia de Baikonur, Eva Stratt le informa a Grace que él ha sido seleccionado como el nuevo especialista de ciencia para la tripulación principal, ya que posee el gen de resistencia al coma y es el mayor experto mundial en el ciclo biológico del astrófago. Grace se niega rotundamente a participar en la misión suicida, pero Stratt lo confronta llamándolo cobarde y señalando que su negativa condenará a los mismos niños que él afirma proteger en su labor como profesor.
+
+En el presente, Grace realiza una extenuante actividad extravehicular (EVA) en el morro de la nave para recuperar las sondas "escarabajo", luchando contra la fuerza centrípeta que amenaza con lanzarlo al espacio. Rocky, utilizando su genio para la ingeniería, modifica los giropropulsores de los escarabajos para que respondan a señales de audio, permitiendo usarlos como motores externos para maniobrar la *Hail Mary*.
+
+Para estabilizar la nave, Grace y Rocky ejecutan una maniobra de rotación manual que somete a Grace a fuerzas de hasta 6 g, provocando que pierda el conocimiento momentáneamente. Al despertar, Grace descubre con alivio que Rocky ha logrado detener la rotación de la nave utilizando los escarabajos modificados. Con la nave nuevamente bajo control, Grace se dispone a realizar los cálculos necesarios para alcanzar la *Blip-A* utilizando el combustible de las pequeñas sondas.
 
 ### Capítulo 24
 
-Recuerdo final: Grace se revela como un cobarde que intentó abandonar la misión. Stratt lo hizo arrestar, lo drogó con una sustancia que causa amnesia y lo envió a la fuerza en la *Hail Mary*. Presente: Logran criar la "Taumeba-82,5", resistente al nitrógeno de Venus y Tercermundo.
+En un recuerdo final, Eva Stratt confronta a Grace por su cobardía y ordena su arresto inmediato por parte del soldado Melnikov. Stratt revela su implacable plan para asegurar la misión: Grace será mantenido incomunicado en una celda, sedado para el lanzamiento y se le administrará una droga francesa de amnesia retrógrada prolongada para que, al despertar en Tau Ceti, olvide que fue enviado a la fuerza y asuma su rol por sentido del deber.
+
+En el presente, tras recuperar por completo su memoria, Grace procesa con amargura la verdad sobre su participación en la *Hail Mary*, reconociéndose a sí mismo como un cobarde que fue arrastrado al espacio. Sin embargo, decide centrarse en la salvación de la Tierra y Erid, proponiéndole a Rocky un programa de cría intensiva para las taumebas.
+
+Grace utiliza el concepto de selección artificial y resistencia bacteriana para "enseñar" a las taumebas a sobrevivir al nitrógeno, exponiéndolas a concentraciones crecientes del gas en diez tanques de criadero diferentes. Tras semanas de esfuerzo y numerosas generaciones de microorganismos, logran finalmente producir la cepa "Taumeba-82,5", la cual es capaz de resistir los niveles de nitrógeno presentes en Venus y Tercermundo, asegurando así la viabilidad biológica de su plan de salvación.
 
 ### Capítulo 25
 
-Grace carga la nave con combustible eridiano. Tras una emotiva despedida, Rocky parte hacia Erid y Grace pone rumbo a la Tierra.
+Grace y Rocky celebran el éxito definitivo de la Taumeba-82,5, la cual ha demostrado ser capaz de sobrevivir en las atmósferas de Venus y Tercermundo. Para asegurar el regreso del humano, Rocky entrega 2200 toneladas de combustible de astrófago de su propio excedente, utilizando depósitos de aleación eridiana más eficientes que los originales de la *Hail Mary*.
+
+Como muestra de gratitud, Grace le regala a Rocky un computador portátil que contiene siglos de tecnología humana y el catálogo digital de la Biblioteca del Congreso; Rocky, por su parte, construye un sistema de soporte vital y una cámara de lectura táctil para que los científicos de Erid puedan utilizar el dispositivo sin dañarlo.
+
+Grace finaliza la preparación de las sondas "escarabajo", instalando en cada una de ellas una minigranja de taumebas protegida por una cápsula de acero eridiano herméticamente cerrada. Antes de partir, analizan los efectos de la relatividad en sus respectivos viajes: Rocky llegará a Erid en menos de tres años terrestres, mientras que Grace enfrentará un trayecto de tres años y nueve meses de soledad total de regreso a casa. Tras una emotiva despedida, las dos naves se desacoplan y toman rumbos opuestos; Grace observa por última vez el brillo de los motores de Rocky antes de encender sus propios giropropulsores hacia la Tierra.
 
 ### Capítulo 26
 
-Recuerdo: Stratt explica que la desesperación por comida causará guerras y el fin de la sociedad antes de que llegue la glaciación total. Presente: Grace descubre que las taumebas han mutado y ahora pueden atravesar la xenonita. Se da cuenta de que la nave de Rocky, hecha de xenonita, está condenada.
+En un recuerdo del pasado, Eva Stratt visita a Grace en su celda de Baikonur para explicarle el motivo de su implacable determinación; basándose en su formación como historiadora, Stratt advierte que la humanidad se enfrenta no solo a la glaciación, sino al colapso absoluto de la sociedad debido a hambrunas masivas, plagas y guerras por los recursos alimenticios. Afirma estar dispuesta a convertirse en el chivo expiatorio y pasar el resto de su vida en prisión con tal de salvar a la especie humana.
+
+En el presente, Grace se encuentra a treinta y dos días de viaje de regreso a la Tierra, habiendo alcanzado la heliopausa de Tau Ceti. Sin embargo, su tranquilidad se rompe al detectar un olor nauseabundo proveniente del contenedor de astrófagos, confirmando que las taumebas han escapado nuevamente y están devorando su combustible.
+
+Tras realizar una serie de pruebas microscópicas, Grace llega a una conclusión aterradora: en su afán por criar una cepa resistente al nitrógeno, provocó accidentalmente que la Taumeba-82,5 evolucionara para filtrarse a través de la estructura molecular de la xenonita como forma de protección. Grace comprende que esto no solo es un desastre para la *Hail Mary*, sino que significa que la nave de Rocky, construida íntegramente de xenonita, está irremediablemente condenada y su amigo morirá en el espacio al quedarse sin combustible.
 
 ### Capítulo 27
 
-Grace inunda su propia nave con nitrógeno puro para exterminar las taumebas sueltas y proteger sus depósitos.
+Tras confirmar la fuga de taumebas en el contenedor de astrófagos, Grace actúa con rapidez y desactiva los sistemas de calefacción y soporte vital de la nave para proteger los depósitos de combustible principales. Consciente de que la Taumeba-82,5 es extremadamente vulnerable al nitrógeno elemental, decide inundar el compartimento de tripulación con este gas para exterminar a los microorganismos prófugos.
+
+Grace se equipa con su traje espacial Orlan y abre las válvulas de emergencia de la esclusa para evacuar el oxígeno de la nave al vacío del espacio. Posteriormente, introduce nitrógeno puro desde un depósito de reserva hasta alcanzar una presión de 0,33 atmósferas, creando un entorno letal para las taumebas que pudieran estar acechando en las rendijas del compartimento.
+
+Después de tres horas de esterilización por nitrógeno, Grace restaura la atmósfera respirable y confirma con alivio que sus depósitos principales de combustible no han sido contaminados. Como medida de seguridad definitiva, traslada todas las granjas de taumebas a cubos de plástico herméticos sobrepresurizados con nitrógeno, asegurando una barrera física infranqueable. El capítulo concluye con Grace enfrentándose al desorden masivo del laboratorio, resultado de haber tenido que interrumpir la gravedad artificial para gestionar la emergencia.
 
 ### Capítulo 28
 
-Confirma que la cepa Taumeba-82,5 aprendió a filtrarse por los poros moleculares de la xenonita. Comprende que Rocky no tiene combustible para llegar a Erid y que su civilización morirá si él no interviene.
+Grace realiza un descubrimiento científico crucial que cambia el destino de la misión: la Taumeba-82,5 ha evolucionado para filtrarse a través de la estructura molecular de la xenonita como un mecanismo de defensa para ocultarse del nitrógeno. Confirma esta teoría mediante un experimento con discos de plástico y xenonita, observando que los microorganismos penetran el material eridiano con facilidad mientras que son bloqueados por los polímeros terrestres.
+
+Esta revelación es catastrófica para Rocky, ya que toda su nave, incluidos los depósitos de combustible, está construida con xenonita, lo que la hace vulnerable a una infestación total que devoraría sus toneladas de astrófagos en pocos días. Grace deduce con amargura que la *Blip-A* debe estar a la deriva y sin energía en algún lugar cerca de Tau Ceti.
+
+Ante esta situación, Grace se enfrenta a un dilema moral definitivo: regresar a la Tierra para salvar a la humanidad y ser recibido como un héroe, o sacrificar su única oportunidad de volver a casa para salvar a su amigo y a la civilización de Erid. Consciente de que no tiene suministros suficientes para sobrevivir a un viaje hacia Erid y luego de regreso a la Tierra, Grace comprende que elegir salvar a Rocky significa aceptar su propia muerte por inanición en un planeta alienígena.
 
 ### Capítulo 29
 
-Grace toma la decisión heroica de sacrificar su regreso a casa. Envía los cuatro escarabajos a la Tierra con las taumebas y los datos de la salvación. Utiliza un radar infrarrojo improvisado para localizar la *Blip-A* a la deriva y rescata a Rocky. Rocky revela que tienen 22,000 toneladas de taumebas en sus depósitos de combustible y sugiere que Grace podría sobrevivir comiéndoselas, ya que carecen de los metales pesados de Erid.
+Grace toma la decisión heroica de sacrificar su regreso a la Tierra; lanza los cuatro "escarabajos" cargados con todos los datos científicos y las minigranjas de taumebas hacia su hogar, mientras vira la *Hail Mary* para buscar a su amigo. Utilizando el ingenio, convierte los motores giropropulsores y el petrovascopio en un radar infrarrojo de inmensa potencia, logrando localizar a la *Blip-A* a cuatro millones de kilómetros de distancia.
+
+Tras una maniobra de aproximación cuidadosa, Grace realiza una actividad extravehicular (EVA) en la que logra enganchar un cable a una antena de la nave alienígena y golpear el casco con una llave metálica para comunicarse. Rocky, que se encontraba atrapado en una nave sin energía y cubierta de residuos de taumebas, responde a la radio con una alegría desbordante al ver que Grace ha regresado por él.
+
+Aunque Grace confiesa que su decisión es una sentencia de muerte por falta de suministros, Rocky le ofrece una solución biológica inesperada: alimentarse de las taumebas. Al haber evolucionado en la atmósfera de Adrian y no en Erid, los microorganismos carecen de los metales pesados tóxicos para la biología humana, almacenan energía en forma de glucosa y realizan el ciclo de Krebs, lo que los convierte en una fuente de alimento viable para que Grace sobreviva el resto de su vida.
 
 ### Capítulo λℓ (Final)
 
-Años después, un Grace envejecido vive en una cúpula climatizada en Erid. Come carne humana clonada de su propio tejido ("yoburguesas"). Rocky le da la noticia definitiva: el Sol ha recuperado su luminosidad total, confirmando que la Tierra se salvó. Grace decide quedarse en Erid y termina el libro enseñando ciencia a una nueva generación de niños eridianos.
+Años después de su sacrificio heroico, un Ryland Grace envejecido vive en una cúpula climatizada en medio de una "ciudad" en el planeta Erid, bajo un ciclo de luz artificial que simula el día terrestre. Los eridianos, agradecidos por haber salvado su planeta, mantienen sus sistemas de soporte vital y le proporcionan una dieta basada en batidos de vitaminas y carne humana clonada de su propio tejido ("yoburguesas").
+
+Rocky llega con la noticia más importante de la vida de Grace: los astrónomos eridianos han confirmado que el Sol de la Tierra ha recuperado su luminosidad total. Esto valida el éxito del Proyecto Hail Mary y confirma que los escarabajos llegaron a salvo a la Tierra, permitiendo a la humanidad implementar la solución biológica de las taumebas.
+
+A pesar de que los eridianos le han ofrecido reabastecer de combustible su nave para que regrese a casa, Grace decide quedarse en Erid, consciente de que ya no es joven y de que ha encontrado un nuevo propósito en su vida. El libro concluye con Grace entrando en una sala de reuniones especial para impartir una clase de ciencias a treinta niños eridianos, utilizando un teclado musical para comunicarse. La historia termina de manera cíclica, con el profesor Grace planteando a sus nuevos alumnos la misma pregunta con la que desafiaba a sus estudiantes en la Tierra: «¿Quién puede decirme la velocidad de la luz?».
